@@ -1,0 +1,3 @@
+Perkenalan
+Node JS, Prisma Orm, mongoDB
+Perkenalan Node JS

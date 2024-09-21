@@ -24,3 +24,12 @@ function coba(data, data2) {
 }
 
 coba(data, data2);
+
+function perkalian(x,y){
+  return x*y;
+}
+
+perkalian(10,11);
+
+// PR
+// Buat route operasimatematika ketika di akses, penjumlahan, pengurangan, perkalian, pembagian

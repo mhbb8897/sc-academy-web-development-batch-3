@@ -30,6 +30,3 @@ function perkalian(x,y){
 }
 
 perkalian(10,11);
-
-// PR
-// Buat route operasimatematika ketika di akses, penjumlahan, pengurangan, perkalian, pembagian
